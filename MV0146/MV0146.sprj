@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
-  <transcriptionFont />
-  <freeTranslationFont>Qomolangma-Uchen Sarchung, 8.999999, Regular</freeTranslationFont>
+  <transcriptionFont>Monlam Uni OuChan2, 14.25, Regular</transcriptionFont>
+  <freeTranslationFont>Segoe UI, 8.999999, Regular</freeTranslationFont>
   <AutoSegmentersettings minSegmentLength="0" maxSegmentLength="0" preferrerdPauseLength="0" optimumLengthClampingFactor="0" />
   <Title>MV0146</Title>
   <FundingProjectTitle />
